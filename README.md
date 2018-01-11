@@ -26,7 +26,7 @@ If you want more detailed instructions, here are the steps to follow:
 1. Log into your account on [github.com](github.com)
 2. Go to the [assignment template page](https://github.com/ILS-Z399/01-Hello-Class) on GitHub
 3. There is a button in the top right corner of the page labeled "Fork". Press that now
-4. A modal window will appear asking you where you want to fork the repository. Select your account. This will create an independent copy of this repository in your account that you can begin to edit.
+4. A modal window will appear asking you where you want to fork the repository. Select your account. This will create an independent copy of this repository in your account that you can begin to edit
 5. Go to your GitHub home page, and select the new 01-Hello-Class repository
 6. On that page, you will see a green button labeled "Clone or download". Press that now. This will give you the option to "Open in Desktop"; that's the option you want to select
 7. If you have previously installed the [GitHub Desktop](https://desktop.github.com/), that will now open and ask you where you want to clone this repository. This is the process of saving a copy of the code on your local computer. On Windows, the default is something like c:\Users\(username)\Documents\Github\01-Hello-Class
