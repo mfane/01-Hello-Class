@@ -37,7 +37,9 @@ If you want more detailed instructions, here are the steps to follow:
 12. You should test your code by running it in the python interpreter. You can do this from the command line (in Windows, click Start, click Run, type cmd and navigate to the folder where your repository is located, then type "python 01\ hello.py") or run it inside your IDE (if that is possible). Make sure everything looks the way you would expect.
 13. Open the README.md file (which, at this point contains all this information). The purpose of this file is to describe what you code does, so edit it to describe what you are trying to accomplish with your code. Write in your own voice, and try to be helpful to anyone who downloads this project. What are you hoping to accomplish? What should someone expect to see when they run your code? When you are done editing README.md, save the file.
 14. When you are done editing the files, go back to the GitHub Desktop. In the left column, you should see a list of the three files you edited with an indicator that they have been changed. At the bottom of the column, there is a field (labeled "Summary") for you to describe the changes you have made. Describe what you have done. GitHub convention suggests that you should use the present-tense, imperative: something like "Personalizes LICENSE and README.md and answers the required questions." Push the "Commit to master" button. This makes your changes an official part of the repository.
-15. In the top right corner of the GitHub Desktop window is a button
+15. In the top right corner of the GitHub Desktop window is a button that should now be labeled "Push origin". This will copy your changes to the GitHub repository.
+16. Check out your page on GitHub. You should see the changes you made reflected there, Repeat steps 9 through 16 as necessary.
+17. When you are satisfied with your efforts, turn in a URL to your repository on Canvas.
 
 ---
 
