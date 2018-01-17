@@ -1,23 +1,6 @@
 # 01-Hello-Class
 
-Hello, class! This is the first assignment for ILS-Z399. The requirements for this assignment are as follows:
-
-Write a Python program that displays answers to the following questions:
-
-* What is your name?
-* What is your favorite game?
-* What concerns do you have about this class?
-* What are you excited about (in general)?
-* What is your stackoverflow.com user number?
-* What is the URL to your github.com profile?
-
-In order to complete the assignment, you will need to do the following:
-
-* Create an account on [stackoverflow.com](https://stackoverflow.com).
-* Create an account on [github.com](https://github.com).
-* Download and install [Python 3](https://www.python.org/downloads/).
-* Choose and install an IDE (optional, [pyCharm](https://www.jetbrains.com/pycharm/) is an okay choice or [Sublime Text](http://www.sublimetext.com/))
-* Download [git](https://git-scm.com/downloads) or [GitHub Desktop](https://desktop.github.com/)
+What i am trying to do with this code is have it say my name, favorite game, concerns about my class, the thing i am excited about, my stackoverflow user number, and the url to my github account.
 
 ---
 
